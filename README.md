@@ -157,9 +157,9 @@ Green squares are cheap — here's what actually shipped.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacexplorer20-shiplayout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=spacexplorer20-ship&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph">
-</div>
+</div> -->
 
 
 
@@ -173,9 +173,9 @@ Green squares are cheap — here's what actually shipped.
 <br>
 <!--## 🧩 Profile Summary -->
 
- <div align="center">
+ <!--<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spacexplorer20-ship&theme=github_dark" alt="Profile Details" width="100%">
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spacexplorer20-ship&theme=github_dark" alt="Repos Per Language" width="49%"> -->
@@ -200,13 +200,13 @@ Green squares are cheap — here's what actually shipped.
 
 <br><br>
 
-## 🤝 Connect
+<!-- ## 🤝 Connect
 
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"></a>
-</p>
+</p>-->
 
 <br>
 
