@@ -3,7 +3,7 @@
   <img
     src="src/assets/BnW_ascii-art.svg"
     alt="ASCII Portrait"
-    width="350"
+    width="250"
   />
 </p>
 <!--
