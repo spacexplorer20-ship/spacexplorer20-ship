@@ -8,7 +8,7 @@
 </p> -->
 
 <!-- <img src="src/assets/say_mountain.svg" width="350"> -->
-<img src="src/assets/say_mountain.svg" width="500" height="250">
+<img src="src/assets/say_mountain-2.svg" width="500" height="250">
 <!--
 **spacexplorer20-ship/spacexplorer20-ship** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
