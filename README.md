@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 </p>
 
 ## 💫 About Me
-
+<img align="right" width="35%" src="src/assests/coding.gif" alt="Coding animation" />
 - 🔭 Currently building KG-RAG pipelines, PINNs for fluid dynamics, and a Kaboom.js portfolio game
 - 🌱 Currently learning MLOps (Feast, DVC, MLflow, CI/CD on GCP) and prepping for GATE CSE
 - 👯 Looking to collaborate on AI/data tooling, MLOps pipelines, and game-dev side projects
@@ -85,7 +85,10 @@ Here are some ideas to get you started:
   </table>
 </div>
 
-<br>
+
+
+
+<!-- <br>
 
 ## 🛠 Proof of Work
 
@@ -97,7 +100,9 @@ Green squares are cheap — here's what actually shipped.
 
 **[Project / PR name](https://github.com/YOUR_GITHUB_USERNAME/repo/pull/N)** · Same format — keep it concrete and specific, not a skills list.
 
-<br>
+<br> -->
+
+
 
 ## ⚔️ Tech Stack
 
@@ -118,13 +123,13 @@ Green squares are cheap — here's what actually shipped.
     <kbd>Game Dev</kbd><br><br>
     <a href="https://godotengine.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" /></a>
     <a href="https://unity.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /></a>
-    <a href="https://www.rpgmakerweb.com/products/rpg-maker-mz" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gameboy/gameboy-original.svg" /></a>
+    <a href="https://www.rpgmakerweb.com/products/rpg-maker-mz/" target="_blank"><img src="https://img.shields.io/badge/RPG_Maker-CC0000?style=flat&logo=data:image/png;base64,&logoColor=white" /></a>
   </kbd>
   <!-- <br><br> -->
   <kbd>
     <kbd>Cloud / MLOps</kbd><br><br>
     <a href="https://cloud.google.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /></a>
-    <a href="https://aws.amazon.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /></a>
+    <a href="https://aws.amazon.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></a>
     <a href="https://www.docker.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></a>
     <a href="https://git-scm.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></a>
   </kbd>
@@ -153,28 +158,30 @@ Green squares are cheap — here's what actually shipped.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=spacexplorer20-ship&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph">
 </div>
 
-<br>
 
-## 🏆 Profile Trophy
+
+<!-- ## 🏆 Profile Trophy
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=spacexplorer20-ship&theme=tokyonight&no-frame=true&margin-h=15&row=3&title=MultiLanguage,Joined2024,Issues,PullRequest,Commits,Repositories" alt="Trophy">
-</p>
+</p> -->
 
-## 🧩 Profile Summary
 
-<div align="center">
+<br>
+<!--## 🧩 Profile Summary
+
+ <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spacexplorer20-ship&theme=github_dark" alt="Profile Details" width="100%">
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spacexplorer20-ship&theme=github_dark" alt="Repos Per Language" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spacexplorer20-ship&theme=github_dark" alt="Repos Per Language" width="49%"> -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spacexplorer20-ship&theme=github_dark" alt="Most Commit Language" width="49%">
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=spacexplorer20-ship&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="49%">
-</div>
+</div> -->
 
 <br>
 
