@@ -6,7 +6,7 @@
     width="250"
   />
 </p> -->
-<img src="assets/BnW_ascii-art.svg" width="350">
+<img src="src/assets/BnW_ascii-art.svg" width="350">
 <!--
 **spacexplorer20-ship/spacexplorer20-ship** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
