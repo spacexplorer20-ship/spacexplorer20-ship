@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ## 💫 About Me
 <div>
-<img align="right" width="35%" src="src/assets/coding.gif" alt="Coding animation" />
+<img align="right" width="35%" src="src/assets/coding.gif" alt="Coding animation" /img>
 </div>
 - 🔭 Built KG-RAG pipelines, PINNs for fluid dynamics
 - 🌱 Currently learning MLOps
