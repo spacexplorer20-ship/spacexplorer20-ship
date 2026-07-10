@@ -236,7 +236,7 @@ Green squares are cheap — here's what actually shipped.
 </p>-->
 
 <br>
-
+<img src="src/assets/tw_say_mountain-light.svg" width="500" height="1000"/>
 <div align="center">
   <i>Building in the open,</i>
   <br>
