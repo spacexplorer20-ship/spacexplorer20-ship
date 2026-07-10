@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p align="center">
   <img
-    src="src/assets/say-ascii-art_00002.svg"
+    src="src/assets/BnW_ascii-art.svg"
     alt="ASCII Portrait"
     width="350"
   />
