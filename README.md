@@ -54,13 +54,13 @@ Here are some ideas to get you started:
 </p>
 
 ## 💫 About Me
-<img align="right" width="35%" src="src/assests/coding.gif" alt="Coding animation" />
-- 🔭 Currently building KG-RAG pipelines, PINNs for fluid dynamics, and a Kaboom.js portfolio game
-- 🌱 Currently learning MLOps (Feast, DVC, MLflow, CI/CD on GCP) and prepping for GATE CSE
-- 👯 Looking to collaborate on AI/data tooling, MLOps pipelines, and game-dev side projects
-- 💬 Ask me about KG-RAG, PINNs, HEC-RAS hydraulic modelling, or Godot/RPG Maker dev
+<img align="right" width="35%" src="src/assets/coding.gif" alt="Coding animation" />
+- 🔭 Built KG-RAG pipelines, PINNs for fluid dynamics
+- 🌱 Currently learning MLOps
+- 👯 Looking to collaborate on AI/data tooling, MLOps pipelines and data engineering
+- 💬 Ask me about KG-RAG, PINNs, QGIS, HEC-RAS hydraulic modelling, or Godot/RPG Maker dev
 - 📫 How to reach me: **YOUR_EMAIL**
-- ⚡ Fun fact: Final-year Civil Engineering student headed into AI/ML — the pivot is the whole story
+- ⚡ Fun fact: I make small games in unity, godot and rpg maker
 - 👨‍💻 Explore all my projects on [GitHub](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
 
 <br>
