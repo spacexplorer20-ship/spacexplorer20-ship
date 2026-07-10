@@ -171,7 +171,7 @@ Green squares are cheap — here's what actually shipped.
 
 
 <br>
-<!--## 🧩 Profile Summary
+<!--## 🧩 Profile Summary -->
 
  <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spacexplorer20-ship&theme=github_dark" alt="Profile Details" width="100%">
