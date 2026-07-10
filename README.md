@@ -139,8 +139,8 @@ Green squares are cheap — here's what actually shipped.
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=spacexplorer20-ship&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats">
+  <img src="https://streak-stats.demolab.com?user=spacexplorer20-ship&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak">
 </div>
 
 <div align="center">
@@ -162,16 +162,16 @@ Green squares are cheap — here's what actually shipped.
 ## 🧩 Profile Summary
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark" alt="Profile Details" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spacexplorer20-ship&theme=github_dark" alt="Profile Details" width="100%">
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=github_dark" alt="Repos Per Language" width="49%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=github_dark" alt="Most Commit Language" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spacexplorer20-ship&theme=github_dark" alt="Repos Per Language" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spacexplorer20-ship&theme=github_dark" alt="Most Commit Language" width="49%">
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=spacexplorer20-ship&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="49%">
 </div>
 
 <br>
@@ -179,9 +179,9 @@ Green squares are cheap — here's what actually shipped.
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake eating the contribution graph">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spacexplorer20-ship/spacexplorer20-ship/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spacexplorer20-ship/spacexplorer20-ship/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/spacexplorer20-ship/spacexplorer20-ship/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake eating the contribution graph">
 </picture>
 
 <sub>Needs a GitHub Actions workflow (Platane/snk) running on your repo to generate the SVGs — ask if you want that workflow file too.</sub>
