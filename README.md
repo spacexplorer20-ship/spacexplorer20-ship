@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **YOUR_EMAIL**
 - ⚡ Fun fact: I make small games in unity, godot and rpg maker
 - 👨‍💻 Explore all my projects on [GitHub](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
-
+/>
 <br>
 
 ## 🔥 Current Focus
@@ -223,7 +223,7 @@ Green squares are cheap — here's what actually shipped.
   <img src="https://raw.githubusercontent.com/spacexplorer20-ship/spacexplorer20-ship/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake eating the contribution graph">
 </picture>
 
-<sub>Needs a GitHub Actions workflow (Platane/snk) running on your repo to generate the SVGs — ask if you want that workflow file too.</sub>
+<!-- <sub>Needs a GitHub Actions workflow (Platane/snk) running on your repo to generate the SVGs — ask if you want that workflow file too.</sub> -->
 
 <br><br>
 
