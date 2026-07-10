@@ -1,5 +1,11 @@
 ## Hi there 👋
-<img src="src/assets/say-ascii-art_00002.svg" width="350">
+<div align="center" style="background-color:#000; padding:20px; border-radius:12px;">
+  <img
+    src="src/assets/say-ascii-art_00002.svg"
+    alt="ASCII Portrait"
+    width="350"
+  />
+</div>
 <!--
 **spacexplorer20-ship/spacexplorer20-ship** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
