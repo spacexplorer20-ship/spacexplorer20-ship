@@ -177,7 +177,7 @@ Green squares are cheap — here's what actually shipped.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spacexplorer20-ship&theme=github_dark" alt="Profile Details" width="100%">
 </div> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spacexplorer20-ship&theme=github_dark" alt="Repos Per Language" width="49%"> 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spacexplorer20-ship&theme=github_dark" alt="Most Commit Language" width="49%">
 </div>
@@ -186,34 +186,25 @@ Green squares are cheap — here's what actually shipped.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=spacexplorer20-ship&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="49%">
 </div> -->
 
-<br>-->   -->
+<br>   -->
 
 
 
 
 ## 📊 GitHub Stats & Activity
 
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=spacexplorer20-ship&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180"/>
-</td>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=spacexplorer20-ship&theme=tokyonight&hide_border=true" /> -->
 
-<td align="center">
-<img src="https://streak-stats.demolab.com?user=spacexplorer20-ship&theme=tokyonight&hide_border=true" height="180"/>
-</td>
-</tr>
+<!--<td align="center">-->
 
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spacexplorer20-ship&theme=github_dark" width="100%"/>
-</td>
+ <div align="center"> 
 
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spacexplorer20-ship&theme=github_dark" width="100%"/>
-</td>
-</tr>
-</table>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=spacexplorer20-ship&theme=tokyonight&hide_border=true" width="32%" /> -->
+
+<img src="https://streak-stats.demolab.com?user=spacexplorer20-ship&theme=tokyonight&hide_border=true" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spacexplorer20-ship&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spacexplorer20-ship&theme=github_dark" width="32%" />
+</div>
 
 
 
