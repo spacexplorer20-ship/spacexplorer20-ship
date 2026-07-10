@@ -54,7 +54,9 @@ Here are some ideas to get you started:
 </p>
 
 ## 💫 About Me
+<div>
 <img align="right" width="35%" src="src/assets/coding.gif" alt="Coding animation" />
+</div>
 - 🔭 Built KG-RAG pipelines, PINNs for fluid dynamics
 - 🌱 Currently learning MLOps
 - 👯 Looking to collaborate on AI/data tooling, MLOps pipelines and data engineering
