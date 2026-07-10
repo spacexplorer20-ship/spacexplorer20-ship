@@ -146,7 +146,7 @@ Green squares are cheap — here's what actually shipped.
 
 <br>
 
-## 📊 GitHub Stats & Activity
+<!-- ## 📊 GitHub Stats & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=spacexplorer20-ship&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats">
@@ -170,15 +170,15 @@ Green squares are cheap — here's what actually shipped.
 </p> -->
 
 
-<br>
-<!--## 🧩 Profile Summary -->
+<!--<br>
+## 🧩 Profile Summary -->
 
  <!--<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spacexplorer20-ship&theme=github_dark" alt="Profile Details" width="100%">
 </div> -->
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spacexplorer20-ship&theme=github_dark" alt="Repos Per Language" width="49%"> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spacexplorer20-ship&theme=github_dark" alt="Repos Per Language" width="49%"> 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spacexplorer20-ship&theme=github_dark" alt="Most Commit Language" width="49%">
 </div>
 
@@ -186,7 +186,41 @@ Green squares are cheap — here's what actually shipped.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=spacexplorer20-ship&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="49%">
 </div> -->
 
-<br>
+<br>-->   -->
+
+
+
+
+## 📊 GitHub Stats & Activity
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=spacexplorer20-ship&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180"/>
+</td>
+
+<td align="center">
+<img src="https://streak-stats.demolab.com?user=spacexplorer20-ship&theme=tokyonight&hide_border=true" height="180"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spacexplorer20-ship&theme=github_dark" width="100%"/>
+</td>
+
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spacexplorer20-ship&theme=github_dark" width="100%"/>
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
 
 ## 🐍 Contribution Snake
 
