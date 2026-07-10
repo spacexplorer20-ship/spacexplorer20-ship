@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Hi there 👋
+
 
 <!-- <p align="center">
   <img
@@ -119,7 +119,7 @@ Green squares are cheap — here's what actually shipped.
     <kbd>Game Dev</kbd><br><br>
     <a href="https://godotengine.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" /></a>
   </kbd>
-  <br><br>
+  <!-- <br><br> -->
   <kbd>
     <kbd>Cloud / MLOps</kbd><br><br>
     <a href="https://cloud.google.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /></a>
