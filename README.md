@@ -236,7 +236,47 @@ Green squares are cheap — here's what actually shipped.
 </p>-->
 
 <br>
+
+
+
+
+
+<table>
+<tr>
+<td valign="middle" width="70%">
 <img src="src/assets/tw_say_mountain-light.svg" width="500" height="1000"/>
+</td>
+
+<td valign="middle" align="center" width="30%">
+
+<a href="https://linkedin.com/in/your-profile">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge">
+</a>
+
+<br><br>
+
+<a href="https://github.com/spacexplorer20-ship">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github">
+</a>
+
+<br><br>
+
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge">
+</a>
+
+<br><br>
+
+<a href="https://your-portfolio.com">
+  <img src="https://img.shields.io/badge/PORTFOLIO-4285F4?style=for-the-badge">
+</a>
+
+</td>
+</tr>
+</table>
+
+
+
 <div align="center">
   <i>Building in the open,</i>
   <br>
