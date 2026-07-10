@@ -1,11 +1,12 @@
 ## Hi there 👋
-<p align="center">
+<!-- <p align="center">
   <img
     src="src/assets/BnW_ascii-art.svg"
     alt="ASCII Portrait"
     width="250"
   />
-</p>
+</p> -->
+<img src="assets/BnW_ascii-art.svg" width="350">
 <!--
 **spacexplorer20-ship/spacexplorer20-ship** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
