@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   />
 </p> -->
 
-<img src="src/assets/tw_say_mountain-light.svg" width="500" height="1000">
+<img src="src/assets/tw_say_mountain-light.svg" width="500" height="1000"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=%E2%86%92+AI%2FML;KG-RAG+%7C+PINNs+%7C+MLOps;Building+in+Unity+%26+RPG+Maker" alt="Typing SVG" />
@@ -54,9 +54,10 @@ Here are some ideas to get you started:
 </p>
 
 ## 💫 About Me
-<div>
-<img align="right" width="35%" src="src/assets/coding.gif" alt="Coding animation" /img>
-</div>
+
+<img align="right" width="35%" src="src/assets/coding.gif" alt="Coding animation" />
+
+
 - 🔭 Built KG-RAG pipelines, PINNs for fluid dynamics
 - 🌱 Currently learning MLOps
 - 👯 Looking to collaborate on AI/data tooling, MLOps pipelines and data engineering
