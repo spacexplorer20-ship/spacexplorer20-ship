@@ -75,9 +75,8 @@ Here are some ideas to get you started:
         PINNs, KG-RAG  
       </td>
       <td align="center" width="33%">
-        <b>MLOps</b><br>
-        
-      
+        <b>MLOps</b><br>      
+      </td>
       <td align="center" width="33%">
         <b>Game Dev</b><br>
         Unity, RPG Maker MZ
@@ -119,12 +118,13 @@ Green squares are cheap — here's what actually shipped.
     <kbd>Game Dev</kbd><br><br>
     <a href="https://godotengine.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" /></a>
     <a href="https://unity.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /></a>
-    <a href="https://www.rpgmakerweb.com/products/rpg-maker-mz" target="_blank"><img width="30px" src="https://img.shields.io/badge/RPG_Maker_MZ-FF5E00?style=flat&logo=rpgmaker&logoColor=white" /></a>
+    <a href="https://www.rpgmakerweb.com/products/rpg-maker-mz" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gameboy/gameboy-original.svg" /></a>
   </kbd>
   <!-- <br><br> -->
   <kbd>
     <kbd>Cloud / MLOps</kbd><br><br>
     <a href="https://cloud.google.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /></a>
+    <a href="https://aws.amazon.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /></a>
     <a href="https://www.docker.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></a>
     <a href="https://git-scm.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></a>
   </kbd>
