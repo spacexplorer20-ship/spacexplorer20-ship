@@ -77,7 +77,7 @@ Here are some ideas to get you started:
       <td align="center" width="33%">
         <b>MLOps</b><br>
         
-      </td>
+      
       <td align="center" width="33%">
         <b>Game Dev</b><br>
         Unity, RPG Maker MZ
@@ -118,6 +118,8 @@ Green squares are cheap — here's what actually shipped.
   <kbd>
     <kbd>Game Dev</kbd><br><br>
     <a href="https://godotengine.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" /></a>
+    <a href="https://unity.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /></a>
+    <a href="https://www.rpgmakerweb.com/products/rpg-maker-mz" target="_blank"><img width="30px" src="https://img.shields.io/badge/RPG_Maker_MZ-FF5E00?style=flat&logo=rpgmaker&logoColor=white" /></a>
   </kbd>
   <!-- <br><br> -->
   <kbd>
