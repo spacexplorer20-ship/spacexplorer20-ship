@@ -144,11 +144,11 @@ Green squares are cheap — here's what actually shipped.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacexplorer20-shiplayout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spacexplorer20-ship&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph">
 </div>
 
 <br>
@@ -156,7 +156,7 @@ Green squares are cheap — here's what actually shipped.
 ## 🏆 Profile Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-h=15&row=3&title=MultiLanguage,Joined2024,Issues,PullRequest,Commits,Repositories" alt="Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=spacexplorer20-ship&theme=tokyonight&no-frame=true&margin-h=15&row=3&title=MultiLanguage,Joined2024,Issues,PullRequest,Commits,Repositories" alt="Trophy">
 </p>
 
 ## 🧩 Profile Summary
