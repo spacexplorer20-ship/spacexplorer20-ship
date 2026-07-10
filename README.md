@@ -126,7 +126,7 @@ Green squares are cheap — here's what actually shipped.
     <kbd>Game Dev</kbd><br><br>
     <a href="https://godotengine.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" /></a>
     <a href="https://unity.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /></a>
-    <a href="https://www.rpgmakerweb.com/products/rpg-maker-mz/" target="_blank"><img src="https://img.shields.io/badge/RPG_Maker-CC0000?style=flat&logo=data:image/png;base64,&logoColor=white" /></a>
+    <!-- <a href="https://www.rpgmakerweb.com/products/rpg-maker-mz/" target="_blank"><img src="https://img.shields.io/badge/RPG_Maker-CC0000?style=flat&logo=data:image/png;base64,&logoColor=white" /></a> -->
   </kbd>
   <!-- <br><br> -->
   <kbd>
