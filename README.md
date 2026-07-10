@@ -8,7 +8,7 @@
 </p> -->
 
 <!-- <img src="src/assets/say_mountain.svg" width="350"> -->
-<img src="src/assets/tw_say_mountain-light.svg" width="500" height="1000">
+<!-- <img src="src/assets/tw_say_mountain-light.svg" width="500" height="1000"> -->
 <!--
 **spacexplorer20-ship/spacexplorer20-ship** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,12 +38,12 @@ Here are some ideas to get you started:
 <img src="src/assets/tw_say_mountain-light.svg" width="500" height="1000">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Civil+Engineer+%E2%86%92+AI%2FML;KG-RAG+%7C+PINNs+%7C+MLOps;Incoming+%40Accenture;Building+in+Godot+%26+RPG+Maker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=%E2%86%92+AI%2FML;KG-RAG+%7C+PINNs+%7C+MLOps;Building+in+Unity+%26+RPG+Maker" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="Profile views">
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=58A6FF&labelColor=111827" alt="GitHub Followers">
+  <img src="https://komarev.com/ghpvc/?username=spacexplorer20-ship&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/spacexplorer20-ship?label=Followers&style=for-the-badge&color=58A6FF&labelColor=111827" alt="GitHub Followers">
 </p>
 
 <p align="center">
@@ -72,15 +72,15 @@ Here are some ideas to get you started:
     <tr>
       <td align="center" width="33%">
         <b>Research</b><br>
-        KG-RAG, PINNs, HEC-RAS — paper accepted at CIB W78 2026
+        PINNs, KG-RAG  
       </td>
       <td align="center" width="33%">
         <b>MLOps</b><br>
-        DVC → Feast → MLflow pipelines on GCP
+        
       </td>
       <td align="center" width="33%">
         <b>Game Dev</b><br>
-        Kaboom.js portfolio game, Godot 4, RPG Maker MZ
+        Unity, RPG Maker MZ
       </td>
     </tr>
   </table>
@@ -114,7 +114,7 @@ Green squares are cheap — here's what actually shipped.
     <a href="https://numpy.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></a>
     <a href="https://pandas.pydata.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /></a>
   </kbd>
-  <br><br>
+  <!-- <br><br> -->
   <kbd>
     <kbd>Game Dev</kbd><br><br>
     <a href="https://godotengine.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" /></a>
@@ -126,7 +126,7 @@ Green squares are cheap — here's what actually shipped.
     <a href="https://www.docker.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></a>
     <a href="https://git-scm.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></a>
   </kbd>
-  <br><br>
+  <!-- <br><br> -->
   <kbd>
     <kbd>Editors</kbd><br><br>
     <a href="https://code.visualstudio.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
