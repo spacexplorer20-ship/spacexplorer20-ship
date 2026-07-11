@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **YOUR_EMAIL**
 - ⚡ Fun fact: I make small games in unity, godot and rpg maker
 - 👨‍💻 Explore all my projects on [GitHub](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
-/>
+
 <br>
 
 ## 🔥 Current Focus
