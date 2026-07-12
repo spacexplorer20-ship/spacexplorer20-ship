@@ -1,39 +1,4 @@
 ## Hi there 👋
-<!-- <p align="center">
-  <img
-    src="src/assets/BnW_ascii-art.svg"
-    alt="ASCII Portrait"
-    width="250"
-  />
-</p> -->
-
-<!-- <img src="src/assets/say_mountain.svg" width="350"> -->
-<!-- <img src="src/assets/tw_say_mountain-light.svg" width="500" height="1000"> -->
-<!--
-**spacexplorer20-ship/spacexplorer20-ship** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-<!-- <p align="center">
-  <img
-    src="src/assets/BnW_ascii-art.svg"
-    alt="ASCII Portrait"
-    width="250"
-  />
-</p> -->
 
 <table>
 <tr>
@@ -72,7 +37,7 @@ Here are some ideas to get you started:
   <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
-<br>
+<!-- <br> -->
 
 ## 💫 About Me
 
@@ -266,13 +231,13 @@ Green squares are cheap — here's what actually shipped.
   <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"></a>
 </p>-->
 
-<br>
+<!-- <br> -->
 
 
 
 
 
-<table>
+<!-- <table>
 <tr>
 <td valign="middle" width="70%">
 <img src="src/assets/tw_say_mountain-light.svg" width="380"/>
@@ -319,7 +284,7 @@ The stats card is driven by <code>today.py</code> + <code>.github/workflows/read
    - `USER_NAME` — `spacexplorer20-ship`
 3. Run the **README stats build** workflow once manually (Actions tab → *workflow_dispatch*) to generate the first commit and `cache/` file.
 
-</details>
+</details> -->
 
 <br>
 
