@@ -19,7 +19,7 @@
 </tr>
 </table>
 
-<sub align="center">Stats card auto-updates daily via <code>today.py</code> + GitHub Actions — see setup notes below.</sub>
+<!-- <sub align="center">Stats card auto-updates daily via <code>today.py</code> + GitHub Actions — see setup notes below.</sub> -->
 
 <br><br>
 
