@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 </tr>
 </table>
 
-<sub align="center">Stats card auto-updates daily via <code>today.py</code> + GitHub Actions — see setup notes below.</sub>
+<!-- <sub align="center">Stats card auto-updates daily via <code>today.py</code> + GitHub Actions — see setup notes below.</sub> -->
 
-<br><br>
+<!-- <br><br> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=%E2%86%92+AI%2FML;KG-RAG+%7C+PINNs+%7C+MLOps;Building+in+Unity+%26+RPG+Maker" alt="Typing SVG" />
