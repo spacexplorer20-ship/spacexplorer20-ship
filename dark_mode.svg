@@ -35,10 +35,10 @@ text, tspan {white-space: pre;}
 <tspan x="30" y="230" class="cc">. </tspan><tspan class="key">Tools</tspan>.<tspan class="key">Game Dev</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Godot 4, RPG Maker MZ, Kaboom.js</tspan>
 <tspan x="30" y="250" class="cc">. </tspan><tspan class="key">Interests</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">AR/VR/XR, Football (UCL)</tspan>
 
-<tspan x="30" y="280" class="hdr">- Contact</tspan><tspan class="cc"> ───────────────────────────────────────────────────────</tspan>
+<!-- <tspan x="30" y="280" class="hdr">- Contact</tspan><tspan class="cc"> ───────────────────────────────────────────────────────</tspan>
 <tspan x="30" y="300" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">YOUR_EMAIL</tspan>
 <tspan x="30" y="320" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">YOUR_LINKEDIN</tspan>
-<tspan x="30" y="340" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">YOUR_PORTFOLIO_URL</tspan>
+<tspan x="30" y="340" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">YOUR_PORTFOLIO_URL</tspan> -->
 
 <tspan x="30" y="370" class="hdr">- GitHub Stats</tspan><tspan class="cc"> ──────────────────────────────────────────────────</tspan>
 <tspan x="30" y="390" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">0</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">0</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............ </tspan><tspan class="value" id="star_data">0</tspan>
