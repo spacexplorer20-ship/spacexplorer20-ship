@@ -62,7 +62,7 @@
 </tr>
 </table>
 
-<br>
+<!-- <br> -->
 
 ## 🔥 Current Focus
 
@@ -140,7 +140,7 @@ Green squares are cheap — here's what actually shipped.
   </kbd>
 </p>
 
-<br>
+<!-- <br> -->
 
 <!-- ## 📊 GitHub Stats & Activity
 
@@ -221,7 +221,7 @@ Green squares are cheap — here's what actually shipped.
 
 <!-- <sub>Needs a GitHub Actions workflow (Platane/snk) running on your repo to generate the SVGs — ask if you want that workflow file too.</sub> -->
 
-<br><br>
+<!-- <br><br> -->
 
 <!-- ## 🤝 Connect
 
@@ -286,7 +286,7 @@ The stats card is driven by <code>today.py</code> + <code>.github/workflows/read
 
 </details> -->
 
-<br>
+<!-- <br> -->
 
 <div align="center">
   <i>Building in the open,</i>
