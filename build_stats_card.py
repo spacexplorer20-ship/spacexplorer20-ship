@@ -61,11 +61,11 @@ CUSTOM_SECTIONS = [
         ("Tools.Game Dev", "Godot 4, RPG Maker MZ, Kaboom.js"),
         ("Interests", "AR/VR/XR, Football (UCL)"),
     ]),
-    ("Contact", [
-        ("Email", "YOUR_EMAIL"),
-        ("LinkedIn", "YOUR_LINKEDIN"),
-        ("Portfolio", "YOUR_PORTFOLIO_URL"),
-    ]),
+    # ("Contact", [
+    #     ("Email", "YOUR_EMAIL"),
+    #     ("LinkedIn", "YOUR_LINKEDIN"),
+    #     ("Portfolio", "YOUR_PORTFOLIO_URL"),
+    # ]),
 ]
 
 PALETTES = {
