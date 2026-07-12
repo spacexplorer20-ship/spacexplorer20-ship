@@ -1,48 +1,13 @@
 ## Hi there 👋
-<!-- <p align="center">
-  <img
-    src="src/assets/BnW_ascii-art.svg"
-    alt="ASCII Portrait"
-    width="250"
-  />
-</p> -->
-
-<!-- <img src="src/assets/say_mountain.svg" width="350"> -->
-<!-- <img src="src/assets/tw_say_mountain-light.svg" width="500" height="1000"> -->
-<!--
-**spacexplorer20-ship/spacexplorer20-ship** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-<!-- <p align="center">
-  <img
-    src="src/assets/BnW_ascii-art.svg"
-    alt="ASCII Portrait"
-    width="250"
-  />
-</p> -->
 
 <table>
 <tr>
-<td width="42%" valign="middle" align="center">
+<td width="50%" valign="middle" align="center">
 
 <img src="src/assets/tw_say_mountain-light.svg" width="100%" alt="ASCII Portrait"/>
 
 </td>
-<td width="58%" valign="middle" align="center">
+<td width="50%" valign="middle" align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spacexplorer20-ship/spacexplorer20-ship/main/dark_mode.svg">
